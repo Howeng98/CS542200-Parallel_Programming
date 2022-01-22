@@ -3,6 +3,8 @@
 # Compile
 ```
 cd sample
+```
+```
 make
 ```
 
