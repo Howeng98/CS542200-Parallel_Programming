@@ -2,6 +2,7 @@
 
 # Compile
 ```
+cd sample
 make
 ```
 
